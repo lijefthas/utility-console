@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local user data - contain saved IPs, credentials, and tokens
+profiles.json
+developer_settings.json
+
+# Per-project build launch scripts (generated locally)
+build_scripts/
+build scripts/
+
+# Local reference material
+ref/
+refs/
+
+# Private notes and release history
+CHANGELOG.md
+changelog.md
+CLAUDE.md
+claude.md
+.claude/
+AGENTS.md
+
+# Local launchers
+utility_console.bat
+
+# Logs
+*.log
